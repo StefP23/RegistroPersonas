@@ -24,3 +24,5 @@ Este proyecto es un programa sencillo en C++ que permite registrar, guardar y mo
 - Compilador de C++ (g++, MinGW, etc.)
 - Sistema operativo Windows (usa windows.h para la codificación de consola)
 
+## Vista en Consola
+<img width="758" height="415" alt="image" src="https://github.com/user-attachments/assets/14450bef-0948-447b-ba41-954572a47e6e" />
