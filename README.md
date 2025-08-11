@@ -12,6 +12,13 @@ Este proyecto es un programa sencillo en C++ que permite registrar, guardar y mo
 - Uso de estructuras (struct) para definir un contacto.
 - Uso de vectores para almacenar múltiples contactos en memoria.
 - Manejo de archivos para guardar y leer los contactos.
+
+## 🪄 Flujo del Programa
+
+1- El usuario ingresa los datos por consola.
+2- Los datos se almacenan en un vector de estructuras.
+3- El vector se guarda en un archivo de texto.
+4- Finalmente, el programa lee el archivo y muestra su contenido.
   
 ## 📝 Requisitos
 - Compilador de C++ (g++, MinGW, etc.)
