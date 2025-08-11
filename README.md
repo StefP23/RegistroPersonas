@@ -15,7 +15,7 @@ Este proyecto es un programa sencillo en C++ que permite registrar, guardar y mo
 
 ## 🪄 Flujo del Programa
 
-1- El usuario ingresa los datos por consola.
+-1 El usuario ingresa los datos por consola.
 2- Los datos se almacenan en un vector de estructuras.
 3- El vector se guarda en un archivo de texto.
 4- Finalmente, el programa lee el archivo y muestra su contenido.
